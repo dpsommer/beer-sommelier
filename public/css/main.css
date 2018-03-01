@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+
+    background-image: url('../img/beer-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#title {
+    font-size: 500%;
+}
